@@ -9,7 +9,7 @@
 .node ellipse,
 .node polygon {
 	/*   fill: #BDD5EA; */
-  fill: #C0C0C0;
+  fill: #404040;
   stroke: #81B1DB;
   stroke-width: 1px;
 }
